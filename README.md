@@ -6,7 +6,7 @@
 ### <div align="center">I'm Bryan Corrales 👨‍💻  a passionate programmer and automation tester 🚀</div>
 
 
-- 🔭 I’m currently open to work
+- 🔭 I’m currently working at NTT Data.
 
 
 - 🌱 I’m currently learning Docker and Jenkins
