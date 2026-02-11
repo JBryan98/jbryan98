@@ -44,12 +44,15 @@
 
 ### Backend
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" height="50" alt="kotlin"/></a>
 <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.microsoft.com/es-es/sql-server/sql-server-2019" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="Sql server" height="50" /></a>  
+<a href="https://www.microsoft.com/es-es/sql-server/sql-server-2019" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="Sql server" height="50" /></a>
+<a href="https://mariadb.org/" target="_blank"><img style="margin:10px" src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent-300x245.png" alt="mariadb" height="50" /></a>
+<a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://brandlogos.net/wp-content/uploads/2023/09/postman-logo_brandlogos.net_wfnwx-512x461.png" alt="Postman" height="50" /></a>  
+<a src="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/docker-icon.png" height="50"/></a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -58,14 +61,9 @@
 
 ### QA Automation
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px">  
-<a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/download/354202/postman-icon.svg" alt="Postman" height="50" /></a>  
-<a href="https://www.cypress.io/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/cypress-icon-512x512-zi8589rq.png" alt="Cypress" height="50" /></a>  
+<a href="https://www.cypress.io/" target="_blank"><img style="margin: 10px" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/cypress-icon-moigrz5nimpd7rsob0bisu.png/cypress-icon-pg9bdlubveoefqouilbg.png?_a=DATAiZAAZAA0" alt="Cypress" height="50" /></a>  
 <a href="https://www.selenium.dev/" target="_blank"><img style="margin: 10px" src="https://avatars0.githubusercontent.com/u/983927?v=3&s=400" alt="Selenium" height="50" /></a>  
-<a href="https://cucumber.io/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/353625/cucumber.svg" alt="Cucumber" height="50" /></a>
-<a href="https://rest-assured.io/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" alt="Appium" height="50" /></a>
-<a href="https://appium.io/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/appium.svg" alt="Appium" height="50" /></a>  
-<a href="https://webdriver.io/" target="_blank"><img style="margin: 10px" src="https://camo.githubusercontent.com/95f9060552c490befea503dea9b87aa13277c0d4ff0aeb18a870f52df665fed4/68747470733a2f2f7765626472697665722e696f2f6173736574732f696d616765732f726f626f742d33363737373838646436333834396335366161356362336633333262313264352e737667" alt="Webdriver.io" height="50" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+<a href="https://cucumber.io/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/cucumber.svg" alt="Cucumber" height="50" /></a>
 </div>
 
 </td></tr></table>  
