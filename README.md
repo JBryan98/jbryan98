@@ -3,16 +3,16 @@
 </div>  
 
 
-### <div align="center">I'm Bryan Corrales 👨‍💻  a passionate programmer and automation tester 🚀</div>
+### <div align="center">I'm Bryan Corrales 👨‍💻 Fullstack Developer passionate about building scalable and high-quality web applications </div>
 
 
-- 🔭 I’m currently open to work
+- 🔭 Currently open to work as a **Fullstack Developer**
 
 
-- 🌱 I’m currently learning Docker and Jenkins
+- 🌱 I’m currently learning about Docker and microservices.
 
 
-- ❓ Ask me about anything related to QA Automation
+- ❓ Strong background in building modern web applications
 
 
 - ⚡ Fun fact: Do not forget that Java and Javascript are not the same 🤡
