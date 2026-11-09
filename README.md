@@ -3,16 +3,17 @@
 </div>  
 
 
-### <div align="center">I'm Bryan Corrales 👨‍💻 Fullstack Developer passionate about building scalable and high-quality web applications </div>
+### <div>👋 Hi, I'm Bryan Corrales</div>
+### <div>💻 Fullstack Developer | Building scalable and high-quality web applications</div>
 
 
-- 🔭 Currently open to work as a **Fullstack Developer**
+- 🔭 Currently open to work as a **Backend Developer** or **Fullstack Developer**
 
 
-- 🌱 I’m currently learning about Docker and microservices.
+- 🌱 Continuously improving my knowledge of **Microservices and Software Architecture**.
 
 
-- ❓ Strong background in building modern web applications
+- 💡 Interested in building robust applications following software engineering best practices and scalable architectures.
 
 
 - ⚡ Fun fact: Do not forget that Java and Javascript are not the same 🤡
@@ -29,6 +30,7 @@
 ### Frontend
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://angular.dev/" target="_blank"><img style="margin: 10px" src="https://angular.dev/assets/images/press-kit/angular_icon_gradient.gif" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -59,7 +61,7 @@
 
 
 
-### QA Automation
+### Testing
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px">  
 <a href="https://www.cypress.io/" target="_blank"><img style="margin: 10px" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/cypress-icon-moigrz5nimpd7rsob0bisu.png/cypress-icon-pg9bdlubveoefqouilbg.png?_a=DATAiZAAZAA0" alt="Cypress" height="50" /></a>  
 <a href="https://www.selenium.dev/" target="_blank"><img style="margin: 10px" src="https://avatars0.githubusercontent.com/u/983927?v=3&s=400" alt="Selenium" height="50" /></a>  
